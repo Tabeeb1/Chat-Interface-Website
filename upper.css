@@ -1,0 +1,40 @@
+.upper-section{
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 65px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    .upper-section-1{
+        color: white;
+        font-weight: 600;
+        font-family: 'Lato', sans-serif;
+        font-size: 23px;
+    }
+    
+    .unity{
+        height: 65px;
+    }
+    
+    .source{
+        margin-left: 1200px;
+        border-radius: 3px;
+        border: none;
+        color: white;
+        background-color: rgb(61, 61, 61);
+        font-family: 'Lato', sans-serif;
+        font-size: 17px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        cursor: pointer;
+        transition: opacity .7s;
+    }
+    .source:hover{
+        opacity: .7;
+    }
+}
