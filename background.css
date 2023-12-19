@@ -27,7 +27,7 @@
         margin-top: 80px;
         width: 320px;
         height: 455px;
-        overflow: hidden;
+        overflow: hidden;  /* basically ekhane div er moddher element jodi div er cheye boro hoye jay oi boro part jate hidden hoye jay seta korsi */
         border-radius: 25px;
         background-color: rgba(0, 0, 0, 0.4);
         box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.7);
